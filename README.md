@@ -8,14 +8,14 @@
 <p align="center">
  <a href="https://github.com/UmeanNever/B2NER/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/UmeanNever/B2NER"></a>
  <a href="https://arxiv.org/pdf/2406.18118"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-red"></a>
- <a href="https://huggingface.co/datasets/csHuang/SafeAligner"><img alt="Data" src="https://img.shields.io/badge/📀-Data-blue"></a>
+ <a href="https://huggingface.co/datasets/csHuang/SafeAligner"><img alt="Data" src="https://img.shields.io/badge/🤗-Data-blue"></a>
 </p>
 
 We introduce SafeAligner, a novel method to enhance the security of large language models (LLMs) against jailbreak attacks. SafeAligner uses two specially trained models—the Sentinel Model for safety and the Intruder Model for risk simulation—to improve response security dynamically during decoding. Our tests show that SafeAligner effectively balances enhanced security with maintained performance, providing a robust and efficient defense solution.
 
  - 📖 Paper: [SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance](https://arxiv.org/pdf/2406.18118)
  - 🎮 Code Repo: https://github.com/csHuangfdu/SafeAligner
- - 📀 Data: You can download from [HuggingFace](https://huggingface.co/datasets/csHuang/SafeAligner).
+ - 🤗 Data: You can download from [HuggingFace](https://huggingface.co/datasets/csHuang/SafeAligner).
 
 
 # OverView
